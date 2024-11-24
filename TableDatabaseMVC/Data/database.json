@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Company Salary ",
+    "Columns": [
+      {
+        "Name": "LastName",
+        "Type": "string"
+      },
+      {
+        "Name": "BaseSalary",
+        "Type": "$"
+      },
+      {
+        "Name": "Bonus",
+        "Type": "real"
+      },
+      {
+        "Name": "Salary tax",
+        "Type": "$Invl"
+      },
+      {
+        "Name": "Age",
+        "Type": "integer"
+      }
+    ],
+    "Rows": []
+  }
+]
